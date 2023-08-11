@@ -177,3 +177,5 @@ The [**RFBF Seismology Demo.R**](<./RFBF Seismology Demo.R>) file generates the 
 The image data set used in the analysis contains 264 face images of 66 people, with four images of each person. Each image has been resized to $50 \times 37$ pixels and becomes a vector in $\mathbb{R}^{1850}$. The [**image_faces_33by2by4.csv**](<./data sets/image_faces_33by2by4.csv>) file contains the image data with columns representing the features in $\mathbb{R}^{1850}$. 
 
 The [**RFBF Image Demo.R**](<./RFBF Image Demo.R>) file shows the FBF fitting from the image data set with specified boundary points. The images plotted in *Figure 10* are constructed using [**face_img_plot.py**](<./face_img_plot.py>) in Python.
+
+<center><img src="./Images/Figure10.JPG" alt="centered image" width="800"/></center>
